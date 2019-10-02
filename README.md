@@ -12,9 +12,9 @@ First row: session 1
 Second row: session 2
 
 Currently the highest identification performance (under the protocol described in the paper) is:\
-75.75% at rank-1\\
-94.46% at rank-15\\
-96.54% at rank-30\\
+75.75% at rank-1\
+94.46% at rank-15\
+96.54% at rank-30\
 
 
 
