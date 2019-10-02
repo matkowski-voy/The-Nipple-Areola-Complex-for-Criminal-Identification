@@ -11,12 +11,12 @@ Examples of images from NTU-Nipple-v1 dataset. Note that these example NAC image
 First row: session 1
 Second row: session 2
 
-Currently the highest identification performance (under the protocol described in the paper) is:\
+Currently the highest identification accuracies (under the protocol described in the paper) are:\
 75.75% at rank-1\
 94.46% at rank-15\
 96.54% at rank-30
 
+![alt text](https://github.com/matkowski-voy/The-Nipple-Areola-Complex-for-Criminal-Identification/blob/master/cmc-final.png)
 
-
-If you have any questions about the paper please email me on matk0001@e.ntu.edu.sg or maskotky@gmail.com
+If you have any questions about the paper please email me on matk0001@e.ntu.edu.sg or maskotky@gmail.com\
 "Data Release Agreement.pdf" coming soon
