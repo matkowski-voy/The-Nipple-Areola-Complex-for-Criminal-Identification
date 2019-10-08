@@ -14,7 +14,7 @@ Examples of images from NTU-Nipple-v1 dataset. Note that these example NAC image
 ![alt text](https://github.com/matkowski-voy/The-Nipple-Areola-Complex-for-Criminal-Identification/blob/master/sample-images.png)\
 First row: session 1\
 Second row: session 2\
-NOTE: images are resized down to the same size. In NTU-Nipple-v1 image sizes vary and the median size is 179 by 179 pixels.  
+NOTE: in this figure, images are resized down to the same size. In NTU-Nipple-v1 image sizes vary and the median size is 179 by 179 pixels.  
 
 ### Results
 Currently the highest identification accuracies (under the protocol described in the paper) are:\
