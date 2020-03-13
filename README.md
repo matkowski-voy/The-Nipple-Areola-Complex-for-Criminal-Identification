@@ -26,5 +26,4 @@ Currently the highest identification accuracies (under the protocol described in
 ![alt text](https://github.com/matkowski-voy/The-Nipple-Areola-Complex-for-Criminal-Identification/blob/master/cmc-final.png)
 
 ## Questions
-If you have any questions about the paper please email me on matk0001@e.ntu.edu.sg or maskotky@gmail.com\
-"Data Release Agreement.pdf" coming soon
+If you have any questions about the paper please email me on matk0001@e.ntu.edu.sg or maskotky@gmail.com or wojciech.matkowski@ntu.edu.sg
