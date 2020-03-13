@@ -2,8 +2,8 @@
 ## Paper
 Wojciech Michal Matkowski, Krzysztof Matkowski, Adams Wai Kin Kong and Cory Lloyd Hall. The Nipple-Areola Complex for Criminal Identification. In International Conference on Biometrics (ICB), June 2019, DOI: 10.1109/ICB45273.2019.8987341.
 
-Paper is on arXiv [here](https://arxiv.org/ftp/arxiv/papers/1905/1905.11651.pdf)
-Paper in on IEEE Xplore [here](https://ieeexplore.ieee.org/document/8987341)
+Paper is on arXiv [here](https://arxiv.org/ftp/arxiv/papers/1905/1905.11651.pdf) \
+Paper is on IEEE Xplore [here](https://ieeexplore.ieee.org/document/8987341)
 
 ## Dataset
 NTU-Nipple-v1 dataset contains 2732 images of 428 different male nipple-areolae (NAC) from 2 sessions in relatively well-controlled environment. 
